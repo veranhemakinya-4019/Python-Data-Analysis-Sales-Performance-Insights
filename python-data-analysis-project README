@@ -1,0 +1,61 @@
+# 📊 Python Data Analysis Mini Project
+
+This project demonstrates beginner-to-intermediate data analysis
+using Python and real-world datasets.
+
+---
+
+## 📌 Project Overview
+
+The goal of this project is to practice data analysis skills such as
+data cleaning, exploratory data analysis (EDA), summary statistics,
+and basic data visualization.
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## 📂 Project Structure
+
+python-data-analysis-project/
+│
+├── notebooks/ # Jupyter notebooks for analysis
+├── data/ # CSV datasets
+├── README.md
+└── LICENSE
+
+---
+
+## 🔍 Analysis Tasks
+
+- Load and inspect a CSV dataset
+- Clean and preprocess data
+- Compute summary statistics
+- Perform exploratory data analysis
+- Create basic visualizations
+
+---
+
+## 🎯 Learning Objectives
+
+- Apply Python to real datasets
+- Strengthen data cleaning skills
+- Improve exploratory data analysis techniques
+- Practice data visualization
+
+---
+
+## 📈 Future Improvements
+
+- Add more datasets
+- Perform statistical tests
+- Build interactive visualizations
