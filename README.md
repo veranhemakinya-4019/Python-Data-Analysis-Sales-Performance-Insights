@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Data Analysis – Sales Performance Insights
 
 ## 📌 Project Overview
@@ -87,3 +88,71 @@ The analysis successfully converted raw sales data into structured insights that
 **Vera Nhema Kinya**  
 Junior Data Analyst | Python • SQL • Excel  
 📍 Kenya 🇰🇪
+=======
+# Python Data Analysis Projects
+
+This repository contains practical Python data analysis projects focused on transforming raw datasets into clear, actionable business insights using exploratory data analysis (EDA), visualization, and analytical reasoning.
+
+---
+
+## Employee Salary Exploratory Data Analysis
+
+### Project Overview
+This project explores employee salary patterns across departments and experience levels using Python and Pandas. The goal is to understand how salaries vary and to demonstrate core EDA techniques commonly used in real-world data analysis tasks.
+
+### Key Skills Demonstrated
+- Data cleaning and preparation
+- Exploratory Data Analysis (EDA)
+- Frequency and percentage analysis using Pandas
+- Insight communication using markdown
+
+### Tools Used
+- Python
+- Pandas
+- Jupyter Notebook
+
+### Key Analyses
+- Salary distribution across departments
+- Frequency counts using `value_counts`
+- Percentage contribution analysis
+- Basic descriptive statistics
+
+### Next Steps
+- Groupby analysis by department and experience level
+- Salary trend exploration
+- Deeper statistical comparisons
+
+---
+
+## Sales Data Analysis Project
+
+### Overview
+This project explores a retail sales dataset using Python to uncover revenue trends, product performance, and actionable business insights that can support decision-making.
+
+### Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+### Key Analyses
+- Revenue by product
+- Sales trends over time
+- Units sold comparison across products
+
+### Key Insights
+- High-value products drive the majority of total revenue
+- Unit sales and revenue do not always align
+- Time-based analysis reveals noticeable sales variability
+
+### Conclusion
+These projects demonstrate my ability to clean and analyze data, perform exploratory analysis, create clear visualizations, and translate data findings into meaningful business insights using Python.
+
+---
+
+👩‍💻 **Author**  
+**Vera Nhema Kinya**  
+Junior Data Analyst | Python • SQL • Excel  
+📍 Kenya 🇰🇪
+
+>>>>>>> f82e4f9 (Add employee salary EDA and clean sales analysis notebook)
