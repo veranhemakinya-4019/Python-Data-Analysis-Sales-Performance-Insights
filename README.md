@@ -45,6 +45,8 @@ I transform raw, messy data into clear insights using Python, SQL, Excel, and st
 **Tools:** Python, Pandas, Jupyter Notebook  
 **Next Steps:** Groupby analysis, salary and revenue trend exploration
 
+🔗 Notebook: notebooks/employee_salary_eda.ipynb
+
 ---
 
 ### 2️⃣ [Sales Performance Analysis](notebooks/sales_performance_analysis.ipynb)
@@ -61,6 +63,8 @@ I transform raw, messy data into clear insights using Python, SQL, Excel, and st
 - Time-based analysis reveals sales variability  
 
 **Conclusion:** Demonstrates ability to clean data, perform EDA, create clear visualizations, and translate data into business insights  
+
+🔗 Notebook: notebooks/sales_performance_analysis.ipynb
 
 ---
 
@@ -88,10 +92,15 @@ I transform raw, messy data into clear insights using Python, SQL, Excel, and st
 ---
 
 ## 🌱 Currently Learning
-- Advanced Pandas for efficient data cleaning  
-- SQL for analytics and reporting  
-- EDA techniques and visualization storytelling  
-- Data storytelling and insight communication  
+- Advanced Pandas for efficient data manipulation
+- SQL for analytics and reporting
+- Data storytelling and insight communication
+
+## How to Run This Project
+1. Clone the repository
+2. Open notebooks using Jupyter Notebook
+3. Run cells top to bottom to reproduce the analysis
+
 
 ---
 
