@@ -74,8 +74,9 @@ I specialize in transforming raw, messy data into structured insights through da
 - Conducted frequency and percentage analysis
 - Summarized findings using markdown documentation
 
-Tools: Python, Pandas, Jupyter Notebook
-Keywords: Data cleaning, EDA, salary analysis, descriptive statistics
+**Tools:** Python, Pandas, Jupyter Notebook  
+**Keywords:** Data cleaning, EDA, salary analysis, descriptive statistics
+
 
 🔗 Notebook: notebooks/employee_salary_eda.ipynb
 ---
@@ -94,9 +95,31 @@ Keywords: Data cleaning, EDA, salary analysis, descriptive statistics
 - Time-based analysis reveals sales variability  
 
 **Conclusion:**  
-Demonstrates end-to-end analysis — from data cleaning to visualization and **business-focused insight generation**.
+Insights were validated using SQL-style aggregations to ensure consistency between querying and Python analysis.
 
 🔗 Notebook: notebooks/sales_performance_analysis.ipynb
+
+---
+
+### 🔹 SQL Business Queries – Sales Insights
+**Objective:** Use SQL to answer core business questions from structured sales data.
+
+**Business Questions Addressed**
+- Which products generate the highest revenue?
+- How does revenue vary by product and time period?
+- What is the relationship between units sold and total revenue?
+
+**SQL Skills Applied**
+- Filtering with `WHERE`
+- Aggregations using `SUM`, `COUNT`, `AVG`
+- Grouping with `GROUP BY`
+- Sorting with `ORDER BY`
+
+**Outcome**
+Validated Python-based insights using SQL aggregations, ensuring accuracy and consistency in revenue and product analysis.
+
+
+**Keywords:** SQL analytics, business queries, aggregation, reporting
 
 ---
 
