@@ -105,17 +105,6 @@ Demonstrates end-to-end analysis — from data cleaning to visualization and **b
 
 ---
 
-### 3️⃣ SQL Data Analysis Practice
-**Objective:** Answer real business questions using SQL.
-
-**Skills Demonstrated:**
-- Filtering and sorting  
-- Aggregations and grouping  
-- Joins  
-- Analytical reporting  
-
----
-
 ## 💡 What I Can Do
 - Clean and preprocess messy datasets  
 - Perform exploratory data analysis (EDA)  
